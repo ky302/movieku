@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/movieku/static/css/main.0349ec65.css",
+    "main.js": "/movieku/static/js/main.268fd9ce.js",
+    "static/js/787.14fd05ec.chunk.js": "/movieku/static/js/787.14fd05ec.chunk.js",
+    "static/media/logo.png": "/movieku/static/media/logo.e361d87655e93c1e0864.png",
+    "index.html": "/movieku/index.html",
+    "main.0349ec65.css.map": "/movieku/static/css/main.0349ec65.css.map",
+    "main.268fd9ce.js.map": "/movieku/static/js/main.268fd9ce.js.map",
+    "787.14fd05ec.chunk.js.map": "/movieku/static/js/787.14fd05ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0349ec65.css",
+    "static/js/main.268fd9ce.js"
+  ]
+}
