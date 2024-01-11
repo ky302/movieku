@@ -36,10 +36,10 @@ const Home = () => {
               <div className=" lg:w-1/4 sm:w-1/3">
                 <h1 className="font-bold text-2xl">MovieKu</h1>
                 <div>
-                  <form className="flex justify-center items-center my-2 ">
+                  <form className="flex sm:justify-center items-center my-2 ">
                     <input
                       type="text"
-                      className=" px-2 w-full  rounded-md text-black"
+                      className=" px-2 w-3/4 lg:w-full sm:w-3/4 rounded-md text-black"
                       onChange={({ target }) => search(target.value)}
                     />
                   </form>
